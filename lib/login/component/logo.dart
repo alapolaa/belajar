@@ -51,8 +51,8 @@ class LogoLogin extends StatelessWidget {
         Row(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Text("Sudah punya akun? "),
-            Text("Login",style: TextStyle(color: Color(0xFF84CBFF)),),
+            Text("Belum punya akun? "),
+            Text("Daftar",style: TextStyle(color: Color(0xFF84CBFF)),),
           ],
         )
       ],
